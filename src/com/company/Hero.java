@@ -28,4 +28,6 @@ public abstract class Hero implements HavingSuperAbility {
     public void setSuperpower(String superpower) {
         this.superpower = superpower;
     }
+
+
 }
